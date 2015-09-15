@@ -1,4 +1,4 @@
 # Learning Javascript
-> Snippets and notes _about JavaScript_
+> Snippets and notes about _JavaScript_
 
 
